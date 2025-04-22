@@ -1,2 +1,6 @@
 ﻿# Private individual user cursor rules
 .cursor/rules/_*.mdc
+.ai/
+.cursor/
+.xnotes
+
