@@ -32,7 +32,7 @@
 1. 克隆仓库：
 
 ```sh
-git clone https://github.com/your-username/book-finder-app.git
+git clone https://github.com/cyclone-mind/book-finder-app.git
 cd book-finder-app
 ```
 
