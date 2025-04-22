@@ -2,14 +2,11 @@
 
 一个使用 Vue 3、TypeScript 和 Tailwind CSS 构建的图书搜索应用，基于 Google Books API。用户可以搜索图书并查看详细信息，包括标题、作者、出版日期和封面图片。
 
-![Book Finder App Screenshot]()
-
 ## ✨ 功能特性
 
 - 📝 通过关键词搜索图书
 - 📊 以响应式网格布局展示搜索结果
 - 🌄 显示图书封面图片
-- 📱 完全响应式设计，适配移动端和桌面端
 - ⏳ 搜索过程中显示加载动画
 - 🔗 包含指向 Google Books 详情页的外部链接
 
